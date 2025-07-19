@@ -11,7 +11,7 @@ int main()
     int userguess;
     int attempts = 0;
 
-    cout<< "-------------------------------\n";
+    cout << "-------------------------------\n";
     cout << "Number Guessing Game\n";
     cout << "-------------------------------\n";
     cout << "Can you guess a number between 1 and 100?\n";
