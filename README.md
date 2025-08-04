@@ -1,13 +1,21 @@
-This repo contains my original work for the C++ Programming Internship at CodSoft.
+#CodSoft C++ Programming Internship - July 2025
 
-Tasks Included:
-- Number Guessing Game  
-- Simple Calculator  
-- Tic-Tac-Toe Game
+This repository contains the original C++ projects completed as part of the **CodSoft July 2025 Internship**.
 
-Each task has its own folder with code brief and info.
+Tasks Completed:
+1. **Task 1 - Number Guessing Game**  
+   A simple game that lets the user guess a random number within a range.
 
-This repository is part of my personal learning and internship journey. All code is written originally and with the goal of understanding C++ better and not just completing the internship, but **growing as a developer**.
+2. **Task 2 - Simple Calculator**  
+   A console-based calculator that performs basic arithmetic operations.
 
-Thanks for visiting!
-Feel free to explore the folders, read the code and drop feedback if you have suggestions!
+3. **Task 3 - Tic Tac Toe**  
+   A 2-player Tic Tac Toe game in the terminal.
+
+Folder Structure:
+- `Task1_NGG/` → Code for Number Guessing Game  
+- `Task2_SC/` → Code for Simple Calculator  
+- `Task3_TTT/` → Code for Tic Tac Toe Game  
+
+All codes are written with the purpose of learning and exploring C++ fundamentals and game logic.  
+Thanks for visiting this repository! Feel free to explore and suggest improvements.
